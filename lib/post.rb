@@ -18,8 +18,4 @@ class Post
   end 
   
   
-
-  
-  
-  
 end 
